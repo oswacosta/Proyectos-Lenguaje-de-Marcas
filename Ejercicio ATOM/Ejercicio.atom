@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+
+<title>Titulo del feed</tittle>
+<link href="https://www.ejemplo.com/noticia1" rel="alternate"/>
+<id>https://www.ejemplo.com/noticia1</id>
+<updated>2023-12-04T09:00:00Z</updated>
+<author>
+<name>Oswaldo</name>
+</author>
+
+<entry>
+    <title>Desarrollos Tecnológicos del Año</tittle>
+    <link href="https://www.ejemplo.com/noticia1" rel="alternate"/>
+    <id>https://www.ejemplo.com/noticia1</id>
+    <updated>2023-12-04T09:00:00Z</updated>
+    <author>
+    <name>Oswaldo</name>
+    </author>
+    <summary>Repaso de los desarrollos tecnológicos más destacados del año.</summary>
+</entry>
+
+</feed>
